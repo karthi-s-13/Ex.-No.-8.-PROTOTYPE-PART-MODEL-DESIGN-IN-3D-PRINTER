@@ -1,6 +1,6 @@
 # Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-## DATE: 
+## DATE: 28-11-2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,9 @@
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/657f8ef3-1656-4387-b8ae-a9f58536cc23)
-### Name: GAUTHAM KRISHNA S
-### Register Number: 212223240036
+### Name: KARTHIKEYAN S
+### Register Number: 212224230116
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
+](https://github.com/karthi-s-13/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM)
